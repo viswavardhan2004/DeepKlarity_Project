@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "title": "Python (programming language)",
+    "summary": "This is a MOCK summary because no API Key was provided. Alan Turing was a pioneer.",
+    "key_entities": {
+        "people": [
+            "Alan Turing Mock",
+            "Grace Hopper Mock"
+        ],
+        "organizations": [
+            "Bletchley Park Mock"
+        ],
+        "locations": [
+            "UK Mock"
+        ]
+    },
+    "sections": [],
+    "quiz": [
+        {
+            "question": "What is 2+2 (Mock Question)?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "4",
+            "difficulty": "easy",
+            "explanation": "Math basics."
+        },
+        {
+            "question": "Who is the father of AI (Mock)?",
+            "options": [
+                "Turing",
+                "Einstein",
+                "Newton",
+                "Darwin"
+            ],
+            "answer": "Turing",
+            "difficulty": "medium",
+            "explanation": "Turing test."
+        }
+    ],
+    "related_topics": [
+        "Artificial Intelligence",
+        "Cryptography",
+        "Computing"
+    ]
+}

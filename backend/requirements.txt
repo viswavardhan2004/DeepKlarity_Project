@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+pydantic
+psycopg2-binary

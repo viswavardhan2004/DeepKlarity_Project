@@ -1,0 +1,60 @@
+{
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "title": "Alan Turing",
+    "summary": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer.",
+    "key_entities": {
+        "people": [
+            "Alan Turing",
+            "Alonzo Church",
+            "Joan Clarke"
+        ],
+        "organizations": [
+            "Government Code and Cypher School",
+            "University of Manchester",
+            "National Physical Laboratory"
+        ],
+        "locations": [
+            "Bletchley Park",
+            "United Kingdom"
+        ]
+    },
+    "sections": [
+        "Early life and education",
+        "Cryptanalysis",
+        "Early computers and the ACE test",
+        "Personal life",
+        "Death"
+    ],
+    "quiz": [
+        {
+            "question": "Which machine is considered a model of a general-purpose computer?",
+            "options": [
+                "The Enigma Machine",
+                "The Turing Machine",
+                "The Analytical Engine",
+                "The Colossus Computer"
+            ],
+            "answer": "The Turing Machine",
+            "difficulty": "easy",
+            "explanation": "Turing provided a formalisation of the concepts of algorithm and computation with the Turing machine."
+        },
+        {
+            "question": "Where did Turing work during the Second World War?",
+            "options": [
+                "The Pentagon",
+                "Bletchley Park",
+                "MIT",
+                "CERN"
+            ],
+            "answer": "Bletchley Park",
+            "difficulty": "medium",
+            "explanation": "During the Second World War, Turing worked for the Government Code and Cypher School (GC&CS) at Bletchley Park, Britain's codebreaking centre."
+        }
+    ],
+    "related_topics": [
+        "Turing test",
+        "Enigma machine",
+        "History of artificial intelligence"
+    ]
+}
